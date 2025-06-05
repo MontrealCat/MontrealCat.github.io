@@ -7,42 +7,58 @@ redirect_from:
   - /about.html
 ---
 
-The lab is targeting for research in Rehabilitation, Assembly, Intelligence, and Longevity forthe Structures (RAlLS), leadig by Professor Tongxu Liu. The Lab belongs to the Institute of Urban Smart Transportation & Safety Maintenance, the National Key Laboratory of Green Longevity Road Engineering in Extreme Environment, and the Department of Civil and Transporation Engineering. 
-The research interests covered by the lab includes:
-    Optimization and application of machine learning algorithms on behavior prediction of structures
-    Repair and strenghening of existing concrete structures (bridges/buildings)
-    Material and mechanical behavior of high/ultra-high performance concrete
-    Structural behavior of precast concrete members (Accelerated Bridge Construction, Modular integrated Construction)
+The lab is targeting for research in Rehabilitation, Assembly, Intelligence, and Longevity forthe Structures (RAlLS), leading by Professor Tongxu Liu.\
+The Lab belongs to the Institute of Urban Smart Transportation & Safety Maintenance, the National Key Laboratory of Green Longevity Road Engineering in Extreme Environment, and the Department of Civil and Transporation Engineering.\
+Prof. Liu The research interests covered by the lab includes:\
+    Optimization and application of machine learning algorithms on performance prediction of structures\
+    Repair and strenghening of existing concrete structures (bridges/buildings)\
+    Material and mechanical behavior of high/ultra-high performance concrete\
+    Structural behavior of precast concrete members (Accelerated Bridge Construction, Modular integrated Construction)\
 
 Education
 ======
 
-2010.09 - 2014.06 Bachelar Degree     Southeast University (China) supervised by Prof. Jingquan Wang
-2014.09 - 2017.06 Master Degree       Southeast University (China) supervised by Prof. Jingquan Wang
-2018.09 - 2023.06 Ph. D. Degree       Polytechnique Montreal (belongs to University of Montreal, Canada) supervised by Prof. Jean-Phillipe Charron
+2010.09 - 2014.06 Bachelar     Southeast University (Supervisor: Prof. Jingquan Wang)\
 
-. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2014.09 - 2017.06 Master       Southeast University (Supervisor: Prof. Jingquan Wang)\
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2018.09 - 2023.06 Ph. D.       Polytechnique Montreal, University of Montreal (Supervisor: Prof. Jean-Phillipe Charron)\
+
 
 Work Experience
 ======
 
-2023.06 - 2023.09 Research Assistant, The University of Hong Kong
-2023.09 - 2025.06 Postdoctoral Fellow, The University of Hong Kong
-2025.06 - now     Professor, ShenZhen University (Department of Civil and Transportation Engineering)
+2023.06 - 2023.09 Research Assistant, The University of Hong Kong\
 
+2023.09 - 2025.06 Postdoctoral Fellow, The University of Hong Kong\
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2025.06 - now     Professor, ShenZhen University (Department of Civil and Transportation Engineering)\
+
 
 Selected Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Structrual performance prediction of concrete structure based on machine learning algorithms\
+
+1. Tongxu Liu, Zhao Chen*, Zhen Wang. (2025). Exploring explicit formula for shear transfer strength of concrete joints using dictionary learning. Construction and Building Materials, 2025, 462, 140000.
+2. Zhen Wang, Tongxu Liu*, Zilin Long, Jingquan Wang, Jian Zhang. (2024). Data-driven model to predict the residual deformation of precast concrete columns using machine learning approach. Journal of Building Engineering, 108650. 
+3. Tongxu Liu, Celal Cakiroglu, Kamrul Islam, Zhen Wang, Moncef L Nehdi*. (2024). Explainable machine learning model for predicting punching shear strength of FRC flat slabs. Engineering Structures, 2024, 301, 117276. 
+4. Zhen Wang, Tongxu Liu*, Zilin Long, Jingquan Wang, Jian Zhang. (2023). Predicting the drift capacity of precast concrete columns using explainable machine learning approach. Engineering Structures, 282: 115771. 
+5. Zhen Wang, Tongxu Liu*, Zilin Long, Jingquan Wang, Jian Zhang. (2022). A machine-learning-based model for predicting the effective stiffness of precast concrete columns. Engineering Structures, 260: 114224. 
+6. Tongxu Liu, Zhen Wang*, Junlin Zeng, Jingquan Wang. (2021). Machine-learning-based models to predict shear transfer strength of concrete joints. Engineering Structures, 249: 113253. 
+
+Repair and strengthening of concrete structrues\
+
+1. Tongxu Liu(strong), Jean-Philippe Charron*. (2024). Analytical Model for Calculating Shear Capacity of NSC beams Strengthened by UHPC Lateral Layers. Journal of Structural Engineering-ASCE, 2024, 150(6): 04024049. 
+2. Tongxu Liu, Jean-Philippe Charron*. (2023). Experimental Study on the Shear Behavior of UHPC-Strengthened Concrete T-Beams. Journal of Bridge Engineering-ASCE, 28(9), 04023064.
+3. Tongxu Liu, Jean-Philippe Charron*. (2023). Determination of NSC-UHPC interface properties for numerical modeling of UHPC-strengthened concrete beams and slabs. Engineering Structures, 290, 116385. 
+4. Tongxu Liu, Jean-Philippe Charron*. (2023). Characterization of NSC-UHPC interface properties for modeling the shear behavior of T-beams strengthened with UHPC. Structure and Infrastructure Engineering, 1-16. 
+
+Material and Mechanical behavior of precast concrete/UHPC structures\
+
+1. Tongxu Liu, Zhen Wang*, Jingquan Wang, Jian Zhang. (2024). Determination of reduction factor of shear key configuration in calculating direct shear strength of precast concrete dry joints using parametric finite element simulation. Journal of Bridge Engineering, 29(7), 04024045. 
+2. Tongxu Liu, Zhen Wang, Jian Guo, and Jingquan Wang*. (2019). Shear strength of dry joints in precast UHPC segmental bridges: Experimental and theoretical research. Journal of Bridge Engineering, 2019, 24(1), 04018100.
+3. Jingquan Wang*, Jiaping Liu, Zhen Wang, Tongxu Liu, Jianzhong Liu, Jian Zhang. (2021). Cost-effective UHPC for accelerated bridge construction: Material properties, structural elements, and structural applications. Journal of Bridge Engineering, 2021, 26(2): 04020117. 
+
 
 Selected Patents
 ------
