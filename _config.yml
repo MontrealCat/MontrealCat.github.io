@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Tongxu Liu"
-  pronouns         : "Dr."  
-  bio              : "Professor, Ph.D from Polytechnique Montreal, UdeM"
-  location         : "Yuehai Street, Nanshan District, Shenzhen, China"
+  pronouns         : "Dr./Prof."  
+  bio              : "Ph.D. from Polytechnique Montreal, UdeM"
+  location         : "Shenzhen, China"
   employer         : "Shenzhen University"
   uri              : # URL
   email            : "liutongxu_seu@hotmail.com" 
