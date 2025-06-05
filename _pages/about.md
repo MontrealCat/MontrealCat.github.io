@@ -12,7 +12,7 @@ Introduction
 
 
 
-The lab is targeting for research in *Rehabilitation, Assembly, Intelligence, and Longevity forthe Structures (RAlLS)*.
+The lab targets for research in *Rehabilitation, Assembly, Intelligence, and Longevity of Structures (RAlLS)*.
 
 The Lab belongs to the Institute of Urban Smart Transportation & Safety Maintenance, the National Key Laboratory of Green Longevity Road Engineering in Extreme Environment, and the Department of Civil and Transporation Engineering in Shenzhen University.
 
