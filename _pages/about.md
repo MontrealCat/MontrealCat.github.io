@@ -31,11 +31,11 @@ The research interests covered by the lab includes:
 Education
 ======
 
-2010.09 - 2014.06 Bachelar &emsp;&emsp;&emsp; Southeast University (Prof. Jingquan Wang)
+2010.09 - 2014.06 &emsp;&emsp; Bachelar, Southeast University (Prof. Jingquan Wang)
 
-2014.09 - 2017.06 Master &emsp;&emsp;&emsp; Southeast University (Prof. Jingquan Wang)
+2014.09 - 2017.06 &emsp;&emsp; Master, Southeast University (Prof. Jingquan Wang)
 
-2018.09 - 2023.06 Ph. D. &emsp;&emsp;&emsp; Polytechnique Montreal, University of Montreal (Prof. Jean-Phillipe Charron)
+2018.09 - 2023.06 &emsp;&emsp; Ph. D., Polytechnique, University of Montreal (Prof. Jean-Phillipe Charron)
 
 
 Work Experience
